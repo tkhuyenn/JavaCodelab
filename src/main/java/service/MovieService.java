@@ -1,5 +1,6 @@
 package service;
 
+import DAO.MongoDB.MovieDAO;
 import model.Movie;
 import org.bson.Document;
 

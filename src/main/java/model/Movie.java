@@ -8,6 +8,8 @@ import java.util.List;
 @Data
 public class Movie {
     private ObjectId id;
+    private String movieID;
+
     private String title;
     private int year;
     private int runtime;
