@@ -1,6 +1,5 @@
 package service;
 
-import DAO.MovieDAO;
 import model.Movie;
 import org.bson.Document;
 
